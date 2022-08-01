@@ -10,15 +10,15 @@ permalink: /
 
 ## Part One
 
-|Orbit|Block|Rotating|
+|**Orbit**|**Block**|**Rotating**|
 |:-|:-|:-|
 |![](/assets/images/orbit.png){: width="250" }|![](/assets/images/block.png){: width="250" }|![](/assets/images/rotating.png){: width="250" }|
-|Cryptogram|Slide||
+|**Cryptogram**|**Slide**||
 |:-|:-|:-|
 |![](/assets/images/cryptogram.png){: width="250" }|![](/assets/images/slide.png){: width="250" }||
 
 ## Part Two
 
-|Pipe|Snap||
+|**Pipe**|**Snap**|**Road**|
 |:-|:-|:-|
-|![](/assets/images/pipe.png){: width="250" }|![](/assets/images/snap.png){: width="250" }||
+|![](/assets/images/pipe.png){: width="250" }|![](/assets/images/snap.png){: width="250" }|![](/assets/images/road.png){: width="250" }|
