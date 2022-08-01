@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Cryptogram
+nav_order: 5
 parent: Puzzles
 ---
 
