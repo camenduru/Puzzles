@@ -2,8 +2,24 @@
 layout: default
 title: Home
 nav_order: 1
-description: "Just the Docs is a responsive Jekyll theme with built-in search that is easily customizable and hosted on GitHub Pages."
+description: "Camenduru's Puzzle Collection"
 permalink: /
 ---
 
-# Camenduru's Puzzle Collection
+# Camenduru's Puzzle Collection 
+
+## Part One
+
+|Orbit|Block|Rotating|
+|:-|:-|:-|
+|![](../../assets/images/orbit.png){: width="250" }|![](../../assets/images/block.png){: width="250" }|![](../../assets/images/rotating.png){: width="250" }|
+
+|Cryptogram|Slide||
+|:-|:-|:-|
+|![](../../assets/images/cryptogram.png){: width="250" }|![](../../assets/images/slide.png){: width="250" }||
+
+## Part Two
+
+|Pipe|Snap||
+|:-|:-|:-|
+|![](../../assets/images/pipe.png){: width="250" }|![](../../assets/images/snap.png){: width="250" }||
