@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Block
+nav_order: 2
 parent: Puzzles
 ---
 
