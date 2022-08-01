@@ -4,4 +4,4 @@ title: Orbit
 parent: Puzzles
 ---
 
-![](../../assets/images/orbit.png)
+![](../../assets/images/orbit.png){: width="250" }
