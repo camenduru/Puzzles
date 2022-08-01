@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Orbit
+nav_order: 1
 parent: Puzzles
 ---
 
