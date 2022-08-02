@@ -7,7 +7,7 @@ parent: Puzzles
 
 ![](../../assets/images/orbit.png){: width="250" }
 
-# Orbit Puzzle Customize Texture Guide
+# Orbit Puzzle Customize Texture
 
 Find the OrbitTexture under Orbit/Pieces Export and customize it.
 
