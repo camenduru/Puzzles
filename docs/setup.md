@@ -33,3 +33,6 @@ PuzzleInterface has only two fucntions ActivateCamera and DeactivateCamera you c
 ![](../assets/images/character.png)
 
 
+# Puzzle Camera World Position
+
+![](../assets/images/cameratransform.png)
