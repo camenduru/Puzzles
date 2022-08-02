@@ -36,3 +36,9 @@ PuzzleInterface has only two fucntions ActivateCamera and DeactivateCamera you c
 # Puzzle Camera World Position
 
 ![](../assets/images/cameratransform.png)
+
+# Puzzle Win Condition
+
+Each puzzle has own win condition you can make win boolean to public and integrate to your own game (like open a door if puzzle condision true).
+
+![](../assets/images/puzzlewin.png)
