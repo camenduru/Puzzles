@@ -19,3 +19,17 @@ If you want you can Import https://github.com/camenduru/Puzzles/blob/gh-pages/as
 # Game Mode
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JgqfPFdHSNQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+# Integration With Character Controller
+
+PuzzleInterface has only two fucntions ActivateCamera and DeactivateCamera you can activate and deactivate puzzles with those functions. 
+
+- First we are looking at display names in the map for substring "Puzzle"
+- For activating puzzles we are calling ActivateCamera (Target is PuzzleInterface) then we are setting "Is Puzzle Active" to True 
+- For deactivating puzzle we are calling DeactivateCamera (Target is PuzzleInterface) then we are setting "Is Puzzle Active" to False
+
+# Example Character Blueprint
+
+![](../assets/images/character.png)
+
+
