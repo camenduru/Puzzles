@@ -23,3 +23,5 @@ A primary piece (red car)
 B - Z all other pieces
 
 ![](../../assets/images/blockdata.png)
+
+DataTable generated from https://www.michaelfogleman.com/rush/ (Preview the database: rush1000.txt (44K))
