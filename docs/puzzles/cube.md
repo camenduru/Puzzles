@@ -6,3 +6,7 @@ parent: Puzzles
 ---
 
 ![](../../assets/images/cube.png){: width="250" }
+
+# Random Mix
+
+![](../../assets/images/cuberandom.png)
