@@ -6,3 +6,7 @@ parent: Puzzles
 ---
 
 ![](../../assets/images/pipe.png){: width="250" }
+
+# Creating A Custom Puzzle
+
+![](../../assets/images/pipeaddnewgame1.png)
